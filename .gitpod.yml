@@ -1,0 +1,10 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+  - port: 19000-19002
+
+vscode:
+  extensions:
+    - PKief.material-icon-theme@4.3.0:URe4ANXBLYHzB6CeGyTN8A==
+    - alexcvzz.vscode-sqlite@0.9.0:zd8ThD/lTpdSq0fXjP1QIw==
